@@ -1,0 +1,54 @@
+.card{
+    background-color: lightcyan;
+    height:100vh;
+    width:25vw;
+    margin:0px auto;
+}
+.card1{
+    background-color: crimson;
+    height:180px;
+}
+.text1{
+    color:white;
+    margin-left: 20px;
+}
+.text2{
+    color:white;
+    font-size: smaller;
+    margin-left:20px;
+}
+.text3{
+    margin-left: 10px;
+}
+.card2{
+    background-color:white;
+    height:130px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.text4{
+    margin-left:10px;
+    font-size: smaller;
+    margin-top:-30px;
+
+}
+.text5{
+    margin-left:10px;
+    margin-top:10px;
+} 
+.kl1{
+    margin-left: 10px;
+} 
+.text6{
+    font-size:x-small;
+}
+.btn1{
+    background-color: blue;
+    border-radius: 10px;
+    color:antiquewhite;
+    padding:5px;
+    margin-left: 120px;
+    
+}
+

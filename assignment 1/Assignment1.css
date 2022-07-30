@@ -1,0 +1,53 @@
+.bgimg{
+    background-image: url("todolistbg.png");
+    height:100vh;
+    width:80vw;
+    background-repeat: no-repeat;
+    margin-left:500px;
+}
+.text{
+    text-indent:100px;
+    
+    color:white;
+
+}
+.text2{
+    font-size: smaller;
+    color:white;
+    text-indent:30px;
+}
+.text3{
+    color: white;
+    text-indent: 150px;
+    font-size: smaller;
+    position:absolute;
+    top:100px;
+}
+.book{
+    color:white;
+}
+.text4{
+    font-size: smaller;
+    line-height:10px;
+    
+    
+    color:white;
+    
+
+    
+}
+.btn1{
+    background-color: orangered;
+    color:white;
+    text-align:center;
+    position:absolute;
+    right:690px;
+}
+.intro{
+    color:white;
+    text-indent:90px;
+    font-size: smaller;
+    text-decoration: underline;
+    position:absolute;
+    top:300px;
+}

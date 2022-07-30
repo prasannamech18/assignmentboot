@@ -1,0 +1,50 @@
+.card{
+    height:100vh;
+    background-color: white;
+    margin:0px auto;
+    width:25vw;
+}
+.text{
+    margin-left:15px;
+    margin-top: 0px;
+}
+.text1{
+    font-size: smaller;
+    margin-left: 10px;
+}
+.text2{
+    margin-left: 15px;
+    margin-top:-10px;
+}
+.img1{
+    margin-left:10px;
+    
+    
+    
+    
+    
+}
+.vedio1{
+    height:60px;
+    width:80px;
+    margin-top:10px;
+    margin-left: 10px;
+    border-radius:10px;
+}
+.vedio3{
+    height:60px;
+    width:80px;
+    margin-top:10px;
+    margin-left: 40px;
+    border-radius:10px;
+}
+.vedio2{
+    height:60px;
+    width:80px;
+    margin-top:10px;
+    margin-left:35px;
+    border-radius:10px;
+}
+
+
+
